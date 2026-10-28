@@ -1,0 +1,4 @@
+interface:
+  display_name: "多学科留学选校与专业匹配"
+  short_description: "按学生目标与跨学科背景检索官网，匹配大学专业并核验资格、预算和申请分级"
+  default_prompt: "请使用 $matching-students-to-university-programs，结合这位学生的现有背景、目标专业和职业规划，比较同专业或跨专业路径，检索官网并给出可追溯的选校、资格核验和分级清单。"
